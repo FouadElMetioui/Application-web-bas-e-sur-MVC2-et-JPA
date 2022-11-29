@@ -98,7 +98,8 @@ Eclipse, Maven, Tomcate, MySQL, JPA
 
 ### Details Article
 <img width="949" alt="afficherUneArticle" src="https://user-images.githubusercontent.com/91638100/204506249-9a88c1aa-260b-4a82-9ffe-a9f6d771ddc2.png">
-### Apres L'Authentification
+
+### Apres Authentification
 <img width="960" alt="apresLogin" src="https://user-images.githubusercontent.com/91638100/204508462-0e587bbd-405d-43d2-bb87-1be8090f2383.png">
 
 ## Creator
